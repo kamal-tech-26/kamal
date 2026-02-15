@@ -1,4 +1,4 @@
-# 🏹 LeetCode Submissions Archive and problem solving 
+# 🏹 LeetCode Submissions Archive 
 
 <p align="center">
   <a href="https://github.com/yousefmohameddergham/leetcode-archive">
